@@ -30,3 +30,8 @@ while (i < array.length)
 
 document.getElementById('weekday').innerHTML=msg;
 
+//  Loop Write Number 1-10
+/*for( i=0; i < 11; i++){
+     msg += i + '<br>';  
+    }  
+document.getElementById('weekday').innerHTML=msg;  */
